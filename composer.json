@@ -17,13 +17,7 @@
   "autoload": {
     "psr-4": {
       "Zxing\\": "src/lib/",
-      "Libern\\QRCodeReader\\": "src/",
-      "Zxing\\Common\\": "src/lib/Common",
-      "Zxing\\Common\\Detector": "src/lib/Common/Detector",
-      "Zxing\\Common\\Reedsolomon": "src/lib/Common/Reedsolomon",
-      "Zxing\\Qrcode\\": "src/lib/Qrcode",
-      "Zxing\\Qrcode\\Detector": "src/lib/Qrcode/Detector",
-      "Zxing\\Qrcode\\Decoder": "src/lib/Qrcode/Decoder"
+      "Libern\\QRCodeReader\\": "src/"
     },
     "files": [
       "src/lib/Common/customFunctions.php"
